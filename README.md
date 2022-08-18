@@ -6,6 +6,13 @@
   <br>
 </h1>
 
+### Like and Follow us on:
+#
+[Facebook](https://www.facebook.com/Defacerph2008)
+[Twitter](https://twitter.com/DefacerPh)
+[GitHub](https://github.com/DefacerPh)
+#
+
 ### Greetz to all the members of DefacerPH
 
 ```
