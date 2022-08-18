@@ -2,7 +2,7 @@
   <br>
   <a href="https://defacerph.neocities.org"><img src="https://defacerph.neocities.org/assets/img/logo.gif" alt="DefacerPH"></a>
   <br>
-  Deface page collection
+  Deface Page Collection
   <br>
 </h1>
 
